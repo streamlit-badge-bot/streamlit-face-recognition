@@ -1,7 +1,7 @@
 streamlit
-face_recognition
-dlib==19.8.1
 cmake
+dlib==19.8.1
+face_recognition
 imutils
 opencv-python==4.3.0.36
 pillow
